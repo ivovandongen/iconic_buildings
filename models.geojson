@@ -11,6 +11,9 @@
           4513368981,
           4513368951
         ],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -30,6 +33,9 @@
       "properties": {
         "name": "CoitTower",
         "buildingFeatureIds": [],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -51,6 +57,9 @@
         "buildingFeatureIds": [
           4319721861
         ],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -82,6 +91,9 @@
           346338541,
           1374251311
         ],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -101,6 +113,9 @@
       "properties": {
         "name": "ChryslerBuilding",
         "buildingFeatureIds": [],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -128,6 +143,9 @@
           2410292531,
           2410292481
         ],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
@@ -147,6 +165,9 @@
       "properties": {
         "name": "StatueofLiberty",
         "buildingFeatureIds": [],
+        "model_rotation": [1.5707963267948966, 0, 0],
+        "model_scale": [1, 1, 1],
+        "model_translation": [0, 0, 0],
         "model_format_type": "gltf",
         "model_format_version": "2.0",
         "model_format_options": ["binary"],
